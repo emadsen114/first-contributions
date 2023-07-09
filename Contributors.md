@@ -156,7 +156,7 @@
 - [MathiasS](https://github.com/mathiassei)
 - [Zalman Gagerman](https://github.com/zalmang)
 - [Ana Hartmann](https://github.com/anah85)
-- [Emily Madsen](http://github.com/emadsen114).
+- [Emily Madsen](http://github.com/emadsen114)
 - [Dries Huybens](https://github.com/DRIESASTER)
 - [Gauri Tripathi](https://github.com/GauriTr)
 - [Touqeer Ali](https://github.com/TouqeerAli)
